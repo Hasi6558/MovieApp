@@ -10,7 +10,7 @@ class CategoryList extends StatefulWidget {
 class _CategoryListState extends State<CategoryList> {
   int selectedCategory = 0;
   List<String> mainCategories = [
-    "Featured Titles",
+    "dfsfsfsdfdsfsd",
     "Movies",
     "Tv Shows",
     "Top Movies",
